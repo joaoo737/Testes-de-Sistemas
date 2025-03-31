@@ -81,9 +81,4 @@ public class Calculadora {
             }
             return result;
     }
-
-    public static void main(String[] args) {
-        int [] valores = {1,2,3,4,5};
-        System.out.println(new Calculadora().fatorial(1));
-    }
 }
